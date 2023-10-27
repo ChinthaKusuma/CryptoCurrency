@@ -1,0 +1,53 @@
+/* Write your CSS code here */
+.heading {
+  color: #00e7ff;
+}
+.img1 {
+  height: 40vh;
+  width: 80vw;
+}
+.one {
+  display: flex;
+  flex-direction: column;
+
+  align-items: center;
+}
+.ul1 {
+  border: 2px solid #00e7ff;
+  border-radius: 12px;
+  padding: 0px;
+}
+.ul2 {
+  width: 70vw;
+
+  margin-left: 0px;
+}
+.h11 {
+  color: white;
+  margin-right: 20px;
+  width: 10vw;
+}
+.h111 {
+  color: white;
+  margin-right: 20px;
+  width: 10vw;
+  margin-left: 10px;
+}
+.two12 {
+  background-color: #092e33;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 70vw;
+  padding-left: 0px;
+}
+.two1 {
+  display: flex;
+}
+.one123 {
+  display: flex;
+  min-height: 80vh;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}

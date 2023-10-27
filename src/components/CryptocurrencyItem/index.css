@@ -1,0 +1,24 @@
+/* Write your CSS code here */
+.para1 {
+  color: white;
+  margin-right: 20px;
+  width: 10vw;
+}
+.img2 {
+  height: 50px;
+  width: 50px;
+  margin-right: 20px;
+  margin-left: 10px;
+}
+.one2 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  list-style: none;
+}
+.one3 {
+  display: flex;
+}
+.one4 {
+  display: flex;
+}
